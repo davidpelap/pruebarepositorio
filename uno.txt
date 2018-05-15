@@ -2,4 +2,4 @@ primero fichero
 
 escribo una cosita para hacer cambios
 
-Hago un tercer cambio
+Borro cambio
